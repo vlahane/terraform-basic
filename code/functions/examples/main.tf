@@ -1,14 +1,3 @@
-### Variables Types
-- string
-- number
-- bool
-- list or tuple (tuple is something that can have diff data types values)
-- map or object
-
-
-##### Example:
-```json
-
 variable "object" {
   type = object({
     games : tuple([
@@ -70,5 +59,3 @@ variable "listOfStrings" {
   type    = list(string)
   default = ["Vishal", "John", "Ned"]
 }
-
-```
