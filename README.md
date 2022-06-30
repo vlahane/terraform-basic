@@ -5,6 +5,7 @@
 - [Variables](https://github.com/vlahane/terraform-basic/blob/main/doc/3_variables.md)
 - [Loops](https://github.com/vlahane/terraform-basic/blob/main/doc/4_loops.md)
 - [Functions](https://github.com/vlahane/terraform-basic/blob/main/doc/5_functions.md)
+- [Custom Condition](https://github.com/vlahane/terraform-basic/blob/main/doc/6_custom_condition.md)
 - [Examples](https://github.com/vlahane/terraform-basic/tree/main/code/)
 
 #### Contributors always welcome! Please raise PR and issues if your feel we can improve somewhere!
