@@ -42,4 +42,14 @@ terraform plan -var=type="web-app" -out test.tfplan
 ```
 
 
+### terrform state commands
+```
+list - list objects in state data
+show - show details about an object
+mv- move an item in state 
+rm - remove an item from state
+pull - output current state to stdout
+push - update remote state from local
+```
+
 
