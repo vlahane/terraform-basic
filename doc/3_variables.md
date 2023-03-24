@@ -7,7 +7,7 @@
 
 
 ##### Example:
-```json
+```terraform
 
 variable "object" {
   type = object({
